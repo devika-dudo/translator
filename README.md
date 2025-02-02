@@ -76,4 +76,10 @@ https://github.com/devika-dudo/translator.git
 circuit diagram:
 ![image](https://github.com/user-attachments/assets/d6657d0d-a7e0-4d16-818e-7544374aaddb)
 
+SCREENSHOTS OF WORK:
+![WhatsApp Image 2025-02-02 at 9 47 38 AM](https://github.com/user-attachments/assets/5271394e-cda2-4044-820c-ded773d53ec0)
+
+![WhatsApp Image 2025-02-02 at 9 48 05 AM](https://github.com/user-attachments/assets/f0a8c2e2-be4b-4a15-82a8-1705d05d035c)
+
+![image](https://github.com/user-attachments/assets/05b1f0e4-d865-47a3-b8e5-b13cf1a5b38b)
 
