@@ -69,23 +69,11 @@ pip install vosk sounddevice numpy
 !pip install pyttsx3 pydub
 !apt-get install ffmpeg
 
-Project Documentation
+Repo link:
 
+https://github.com/devika-dudo/translator.git
 
-Clone the repository:
+circuit diagram:
+![image](https://github.com/user-attachments/assets/d6657d0d-a7e0-4d16-818e-7544374aaddb)
 
-git clone https://github.com/your-repo/offline-translator.git
-cd offline-translator
-
-Run the script:
-
-python main.py
-
-📌 Future Enhancements
-
-🔹 Add support for more languages
-🔹 Improve translation accuracy
-🔹 Enhance UI for a better user experience
-
-📜 Diagram
 
