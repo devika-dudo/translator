@@ -19,7 +19,7 @@ To overcome this, we are developing an offline multilingual speech translator th
 
 PROPOSED SOLUTION:
 
-We are developed "OffLingo", an offline speech-to-speech translator that enables real-time language translation without internet access. Unlike cloud-based solutions, it processes translations locally using Argos Translate, ensuring privacy, security, and accessibility.  
+We have developed "OffLingo", an offline speech-to-speech translator that enables real-time language translation without internet access. Unlike cloud-based solutions, it processes translations locally using Argos Translate, ensuring privacy, security, and accessibility.  
 
 Our initial implementation focuses on Arabic-to-English translation, with plans to expand to additional languages. We are also exploring Raspberry Pi integration to enhance portability and usability in low-connectivity environments.  
 
@@ -83,3 +83,4 @@ SCREENSHOTS OF WORK:
 
 ![image](https://github.com/user-attachments/assets/05b1f0e4-d865-47a3-b8e5-b13cf1a5b38b)
 
+WORKING VIDEO:
